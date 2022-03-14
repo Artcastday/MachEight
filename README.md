@@ -1,5 +1,5 @@
 ## Install dependencies
-Run this command line to install dependencies, project is a react typescript when app
+Run this command line to install dependencies, project is a react typescript web app
 ### `yarn`
 
 ## Available Scripts
