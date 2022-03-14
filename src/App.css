@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  margin: 100px;
+}
+
+.input {
+  margin-bottom: 40px;
+}
+
+.players {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.player {
+  margin: 5px;
+  border-radius: 5px;
+  background-color: lightgray;
+  padding: 2px 5px;
+}
+
+.pairPlayer {
+  border-radius: 5px;
+  border: 1px solid gray;
+  display: flex;
+  padding: 5px 10px;
+  margin: 5px;
+}
